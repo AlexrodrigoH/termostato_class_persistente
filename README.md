@@ -1,0 +1,1 @@
+# termostato_class_persistente
